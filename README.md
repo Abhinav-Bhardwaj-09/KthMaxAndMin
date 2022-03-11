@@ -9,8 +9,8 @@ Example:
         Input:
                 5
                 5 2 7 9 3
-                max
                 3
+                max
 
         Output:
                 5
